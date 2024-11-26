@@ -1,3 +1,3 @@
 # Demo.gitHub
 <br>
-Author - Sachin r(athod)
+Author - Sachin (rathod)
